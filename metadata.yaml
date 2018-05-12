@@ -1,0 +1,28 @@
+_repo: The-Farringdons_19798
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19798-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fowler, Ellen Thorneycroft
+    birthdate: 1860
+    deathdate: 1929
+    gutenberg_agent_id: '8882'
+    url: http://www.gutenberg.org/2009/agents/8882
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Thorneycroft_Fowler
+description: ''
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Black Country (England) -- Fiction'
+title: The Farringdons
+url: http://www.gutenberg.org/ebooks/19798
